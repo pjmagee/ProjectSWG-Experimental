@@ -3,7 +3,7 @@ ProjectSWG-Experimental
 
 Experimental ProjectSWG Architecture
 
-- Apache Maven
+- [Apache Maven][5]
 - [Google Guice][4]
 - [Google Guice-Persist][2]
 - [Hibernate][3]
