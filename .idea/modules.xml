@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg/com.projectswg.iml" filepath="$PROJECT_DIR$/com.projectswg/com.projectswg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.client/com.projectswg.client.iml" filepath="$PROJECT_DIR$/com.projectswg.client/com.projectswg.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.domain/com.projectswg.domain.iml" filepath="$PROJECT_DIR$/com.projectswg.domain/com.projectswg.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.manager/com.projectswg.manager.iml" filepath="$PROJECT_DIR$/com.projectswg.manager/com.projectswg.manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.network/com.projectswg.network.iml" filepath="$PROJECT_DIR$/com.projectswg.network/com.projectswg.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.network.login/com.projectswg.network.login.iml" filepath="$PROJECT_DIR$/com.projectswg.network.login/com.projectswg.network.login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.network.zone/com.projectswg.network.zone.iml" filepath="$PROJECT_DIR$/com.projectswg.network.zone/com.projectswg.network.zone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.protocol/com.projectswg.protocol.iml" filepath="$PROJECT_DIR$/com.projectswg.protocol/com.projectswg.protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.server/com.projectswg.server.iml" filepath="$PROJECT_DIR$/com.projectswg.server/com.projectswg.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.projectswg.network/com.projectswg.server.iml" filepath="$PROJECT_DIR$/com.projectswg.network/com.projectswg.server.iml" />
+    </modules>
+  </component>
+</project>
+
